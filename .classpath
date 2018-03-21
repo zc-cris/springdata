@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring5.0.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate5.2.13"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate5.2.13-jpa"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/c3p0_0.9.2.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate-c3p0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql_driver"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/springdata2.0.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/slf4j_1.6.1"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
